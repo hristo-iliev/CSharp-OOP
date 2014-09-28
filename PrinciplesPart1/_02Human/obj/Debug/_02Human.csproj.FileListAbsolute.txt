@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\OOP\PrinciplesPart1\_02Human\obj\Debug\_02Human.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\OOP\PrinciplesPart1\_02Human\bin\Debug\_02Human.exe.config
+D:\ПРОГРАМИСТ\OOP\PrinciplesPart1\_02Human\bin\Debug\_02Human.exe
+D:\ПРОГРАМИСТ\OOP\PrinciplesPart1\_02Human\bin\Debug\_02Human.pdb
+D:\ПРОГРАМИСТ\OOP\PrinciplesPart1\_02Human\obj\Debug\_02Human.exe
+D:\ПРОГРАМИСТ\OOP\PrinciplesPart1\_02Human\obj\Debug\_02Human.pdb
+D:\Code\MyRepository\OOP\PrinciplesPart1\_02Human\bin\Debug\_02Human.exe.config
+D:\Code\MyRepository\OOP\PrinciplesPart1\_02Human\obj\Debug\_02Human.exe
+D:\Code\MyRepository\OOP\PrinciplesPart1\_02Human\obj\Debug\_02Human.pdb

@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_02Bank\bin\Debug\_02Bank.exe.config
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_02Bank\obj\Debug\_02Bank.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_02Bank\bin\Debug\_02Bank.exe
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_02Bank\bin\Debug\_02Bank.pdb
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_02Bank\obj\Debug\_02Bank.exe
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_02Bank\obj\Debug\_02Bank.pdb
+D:\Code\MyRepository\OOP\PrinciplesII\_02Bank\bin\Debug\_02Bank.exe.config
+D:\Code\MyRepository\OOP\PrinciplesII\_02Bank\obj\Debug\_02Bank.exe
+D:\Code\MyRepository\OOP\PrinciplesII\_02Bank\obj\Debug\_02Bank.pdb

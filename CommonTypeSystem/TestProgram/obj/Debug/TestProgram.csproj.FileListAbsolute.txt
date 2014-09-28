@@ -1,0 +1,12 @@
+D:\ПРОГРАМИСТ\OOP\CommonTypeSystem\TestProgram\bin\Debug\TestProgram.exe.config
+D:\ПРОГРАМИСТ\OOP\CommonTypeSystem\TestProgram\bin\Debug\TestProgram.exe
+D:\ПРОГРАМИСТ\OOP\CommonTypeSystem\TestProgram\bin\Debug\TestProgram.pdb
+D:\ПРОГРАМИСТ\OOP\CommonTypeSystem\TestProgram\obj\Debug\TestProgram.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\OOP\CommonTypeSystem\TestProgram\obj\Debug\TestProgram.exe
+D:\ПРОГРАМИСТ\OOP\CommonTypeSystem\TestProgram\obj\Debug\TestProgram.pdb
+D:\Code\MyRepository\OOP\CommonTypeSystem\TestProgram\bin\Debug\TestProgram.exe.config
+D:\Code\MyRepository\OOP\CommonTypeSystem\TestProgram\obj\Debug\TestProgram.exe
+D:\Code\MyRepository\OOP\CommonTypeSystem\TestProgram\obj\Debug\TestProgram.pdb
+D:\Code\MyRepository\OOP\CommonTypeSystem\TestProgram\bin\Debug\TestProgram.exe
+D:\Code\MyRepository\OOP\CommonTypeSystem\TestProgram\bin\Debug\TestProgram.pdb
+D:\Code\MyRepository\OOP\CommonTypeSystem\TestProgram\obj\Debug\TestProgram.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_01Shapes\bin\Debug\_01Shapes.exe.config
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_01Shapes\bin\Debug\_01Shapes.exe
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_01Shapes\bin\Debug\_01Shapes.pdb
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_01Shapes\obj\Debug\_01Shapes.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_01Shapes\obj\Debug\_01Shapes.exe
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_01Shapes\obj\Debug\_01Shapes.pdb
+D:\Code\MyRepository\OOP\PrinciplesII\_01Shapes\bin\Debug\_01Shapes.exe.config
+D:\Code\MyRepository\OOP\PrinciplesII\_01Shapes\obj\Debug\_01Shapes.exe
+D:\Code\MyRepository\OOP\PrinciplesII\_01Shapes\obj\Debug\_01Shapes.pdb

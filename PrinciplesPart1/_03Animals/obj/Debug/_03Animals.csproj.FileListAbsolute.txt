@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\OOP\PrinciplesPart1\_03Animals\bin\Debug\_03Animals.exe.config
+D:\ПРОГРАМИСТ\OOP\PrinciplesPart1\_03Animals\obj\Debug\_03Animals.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\OOP\PrinciplesPart1\_03Animals\bin\Debug\_03Animals.exe
+D:\ПРОГРАМИСТ\OOP\PrinciplesPart1\_03Animals\bin\Debug\_03Animals.pdb
+D:\ПРОГРАМИСТ\OOP\PrinciplesPart1\_03Animals\obj\Debug\_03Animals.exe
+D:\ПРОГРАМИСТ\OOP\PrinciplesPart1\_03Animals\obj\Debug\_03Animals.pdb
+D:\Code\MyRepository\OOP\PrinciplesPart1\_03Animals\bin\Debug\_03Animals.exe.config
+D:\Code\MyRepository\OOP\PrinciplesPart1\_03Animals\obj\Debug\_03Animals.exe
+D:\Code\MyRepository\OOP\PrinciplesPart1\_03Animals\obj\Debug\_03Animals.pdb

@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_03Exception\bin\Debug\_03Exception.exe.config
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_03Exception\bin\Debug\_03Exception.exe
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_03Exception\bin\Debug\_03Exception.pdb
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_03Exception\obj\Debug\_03Exception.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_03Exception\obj\Debug\_03Exception.exe
+D:\ПРОГРАМИСТ\OOP\PrinciplesII\_03Exception\obj\Debug\_03Exception.pdb
+D:\Code\MyRepository\OOP\PrinciplesII\_03Exception\bin\Debug\_03Exception.exe.config
+D:\Code\MyRepository\OOP\PrinciplesII\_03Exception\obj\Debug\_03Exception.exe
+D:\Code\MyRepository\OOP\PrinciplesII\_03Exception\obj\Debug\_03Exception.pdb

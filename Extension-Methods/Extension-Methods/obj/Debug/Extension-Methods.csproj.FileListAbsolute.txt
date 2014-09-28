@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\OOP\Extension-Methods\Extension-Methods\bin\Debug\Extension-Methods.exe.config
+D:\ПРОГРАМИСТ\OOP\Extension-Methods\Extension-Methods\bin\Debug\Extension-Methods.exe
+D:\ПРОГРАМИСТ\OOP\Extension-Methods\Extension-Methods\bin\Debug\Extension-Methods.pdb
+D:\ПРОГРАМИСТ\OOP\Extension-Methods\Extension-Methods\obj\Debug\Extension-Methods.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\OOP\Extension-Methods\Extension-Methods\obj\Debug\Extension-Methods.exe
+D:\ПРОГРАМИСТ\OOP\Extension-Methods\Extension-Methods\obj\Debug\Extension-Methods.pdb
+D:\Code\MyRepository\OOP\Extension-Methods\Extension-Methods\bin\Debug\Extension-Methods.exe.config
+D:\Code\MyRepository\OOP\Extension-Methods\Extension-Methods\obj\Debug\Extension-Methods.exe
+D:\Code\MyRepository\OOP\Extension-Methods\Extension-Methods\obj\Debug\Extension-Methods.pdb
